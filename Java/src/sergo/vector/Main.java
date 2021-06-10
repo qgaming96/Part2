@@ -1,4 +1,6 @@
-package com.sergo.vector;
+package sergo.vector;
+
+import java.util.Arrays;
 
 public class Main
 {
@@ -45,5 +47,3 @@ public class Main
     }
 
 }
-
-

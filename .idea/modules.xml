@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Part2.iml" filepath="$PROJECT_DIR$/.idea/Part2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Shapes/Shapes.iml" filepath="$PROJECT_DIR$/Shapes/Shapes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
     </modules>
   </component>
 </project>

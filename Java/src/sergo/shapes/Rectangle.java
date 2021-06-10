@@ -1,4 +1,5 @@
-package com.sergo.shapes;
+package sergo.shapes;
+
 
 public class Rectangle extends Shapes
 {

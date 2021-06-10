@@ -1,4 +1,4 @@
-package com.sergo.shapes;
+package sergo.shapes;
 
 public class Circle extends Shapes
 {

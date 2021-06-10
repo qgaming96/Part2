@@ -1,4 +1,4 @@
-package com.sergo.shapes;
+package sergo.shapes;
 
 public class Triangle extends Shapes
 {
@@ -194,4 +194,3 @@ public class Triangle extends Shapes
     }
 
 }
-

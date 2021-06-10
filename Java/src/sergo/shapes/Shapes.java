@@ -1,8 +1,9 @@
-package com.sergo.shapes;
+package sergo.shapes;
 
 import java.util.Comparator;
 
 public abstract class Shapes implements Comparable<Shapes> {
+
 
     public abstract double getWidth();
 
