@@ -54,6 +54,9 @@ public class Vector
         }
     }
 
+    public double[] getVector(){
+        return vector;
+    }
 
     public int getSize()
     {
